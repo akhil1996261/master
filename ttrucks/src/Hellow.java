@@ -1,7 +1,8 @@
 class Hellow
 {
-public static void main(String args [])
+public static void main(String args [])-
 {
 System.out.println("First java123456789 program");
+System.out.println("First java123456789 program")
 }
 }
